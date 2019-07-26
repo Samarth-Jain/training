@@ -1,2 +1,2 @@
 # training
-july2016 github training
+july2019 github training
